@@ -1,0 +1,6 @@
+bear: 1
+dinosaur: 1
+encyclopedia: 1
+lion: 1
+tiger: 1
+zebra: 1
